@@ -1,0 +1,25 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    background-color: red;
+}
+
+main {
+    position: absolute;
+    top: 300px;
+    width: 100%
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: purple;
+    width: 100%;
+}
